@@ -1,8 +1,9 @@
 # Update-Linux
 Update apps in the linux
 
+save the file desktop.
 
-1. save the file desktop.
-2. Open the terminal and run this command:
+
+1. Open the terminal and run this command:
 
 chmod +x up.sh && ./up.sh
