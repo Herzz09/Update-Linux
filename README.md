@@ -13,6 +13,7 @@ Update apps in the linux
 1.1 If your download is automatic to the folder downloads, run it:
 
 mv ~/Downloads/up.sh ~/Desktop/up.sh
+
 ########################################################################
 
 2. Go to de desktop.
