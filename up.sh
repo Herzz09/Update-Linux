@@ -53,4 +53,6 @@ if [[ "$answer" =~ ^[Yy]([Ee][Ss])?$ ]]; then
     sudo reboot
 else
     echo "Restart canceled."
+    sleep 3
+    exit
 fi
