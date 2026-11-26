@@ -5,6 +5,8 @@ Update apps in the linux
 
 1. Save the file on desktop.
 
+<img width="1314" height="815" alt="where_click" src="https://github.com/user-attachments/assets/5dc395cb-a748-4412-ba85-c35c22fa1251" />
+
 <img width="1313" height="821" alt="where_download" src="https://github.com/user-attachments/assets/3a0a5345-f470-476f-ae7d-ab2086ded452" />
 
 
