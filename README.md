@@ -3,9 +3,14 @@ Update apps in the linux
 
 ########################################################################
 
-1. Save the file desktop.
+1. Save the file on desktop.
+
+<img width="1313" height="821" alt="where_download" src="https://github.com/user-attachments/assets/3a0a5345-f470-476f-ae7d-ab2086ded452" />
 
 
+1.1 If your download is automatic to the folder downloads, run it:
+
+mv ~/Downloads/up.sh ~/Desktop/up.sh
 ########################################################################
 
 2. Go to de desktop.
