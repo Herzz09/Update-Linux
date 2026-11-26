@@ -14,12 +14,13 @@ cd ~/Escritorio
 
 Ex. [PORTUGUESE]:
 cd ~/Área\ de\ Trabalho
+
    
 2. Open the terminal and run this command:
 
 chmod +x up.sh && ./up.sh
 
 
-4. When you run the script, go to de desktop and run this: ./up.sh
+3. When you run the script, go to de desktop and run this: ./up.sh
 
 
