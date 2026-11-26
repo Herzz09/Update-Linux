@@ -30,9 +30,13 @@ Ex. [ENGLISH]:
 
 cd ~/Desktop
 
+########################
+
 Ex. [SPANISH]:
 
 cd ~/Escritorio
+
+########################
 
 Ex. [PORTUGUESE]:
 
