@@ -4,8 +4,10 @@ Update apps in the linux
 ########################################################################
 1. Save the file desktop.
 
+
 ########################################################################
 2. Go to de desktop.
+
 
 Ex. [ENGLISH]:
 cd ~/Desktop
@@ -18,6 +20,7 @@ cd ~/Área\ de\ Trabalho
 
 ########################################################################
 3. Open the terminal and run this command:
+
 
 chmod +x up.sh && ./up.sh
 
