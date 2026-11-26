@@ -1,10 +1,11 @@
 # Update-Linux
 Update apps in the linux
 
-save the file desktop.
+########################################################################
+1. Save the file desktop.
 
-
-1. Go to de desktop.
+########################################################################
+2. Go to de desktop.
 
 Ex. [ENGLISH]:
 cd ~/Desktop
@@ -15,12 +16,12 @@ cd ~/Escritorio
 Ex. [PORTUGUESE]:
 cd ~/Área\ de\ Trabalho
 
-   
-2. Open the terminal and run this command:
+########################################################################
+3. Open the terminal and run this command:
 
 chmod +x up.sh && ./up.sh
 
-
-3. When you run the script, go to de desktop and run this: ./up.sh
+########################################################################
+4. When you run the script, go to de desktop and run this: ./up.sh
 
 
