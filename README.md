@@ -29,7 +29,7 @@ chmod +x up.sh && ./up.sh
 
 ########################################################################
 
-4. When you run the script, go to de desktop and run this:
+4. When you run again the script:
 
 cd ~/Desktop (cd ~/Escritorio) (cd ~/Área\ de\ Trabalho)
 
